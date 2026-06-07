@@ -112,6 +112,7 @@ This project demonstrates:
 - User account system
 - Graphical User Interface (GUI)
 - Database integration
+- Waiting list for passengers
 
 ## Author
 
